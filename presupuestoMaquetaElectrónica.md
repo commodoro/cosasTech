@@ -18,6 +18,9 @@ Con los provedores de la UPCT.
 | [Terminales]           | 8,41 €  | 1        | 8,41 €  |
 | [Cinta de cobre]       | 4,22 €  | 1        | 4,22 €  |
 
+| Total | 89,58‬ € |
+| ----- | ------- |
+
 [Fuente 12V 10A]: https://www.electrohobby.es/alimentador/338-fuente-12v-10a.html
 [Kit estuche Leds]: https://www.electrohobby.es/kit-componentes/395-kit-estuche-300-led-3-y-5-mm.html
 [LEDs RGB]: https://www.electrohobby.es/rgb/246-led-rgb-5mm-a-comun.html
